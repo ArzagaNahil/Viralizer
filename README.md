@@ -1,12 +1,12 @@
 # Viralizer
 
-ExtensiÃ³n de Chrome para creadores de YouTube: analiza el rendimiento del canal y optimiza tÃ­tulos SEO anti-clickbait sin spoilers.
+Extensión de Chrome para creadores de YouTube: analiza el rendimiento del canal y optimiza títulos SEO anti-clickbait sin spoilers.
 
-> **Estado:** en desarrollo. PublicaciÃ³n prÃ³ximamente.
+> **Estado:** en desarrollo. Publicación próximamente.
 
-## DescripciÃ³n
+## Descripción
 
-Viralizer estÃ¡ pensado para creadores que quieren mejorar el rendimiento de su canal sin recurrir a tÃ­tulos engaÃ±osos. Analiza el rendimiento del canal y ayuda a optimizar tÃ­tulos SEO anti-clickbait que no revelen el contenido (sin spoilers).
+Viralizer está pensado para creadores que quieren mejorar el rendimiento de su canal sin recurrir a títulos engañosos. Analiza el rendimiento del canal y ayuda a optimizar títulos SEO anti-clickbait que no revelen el contenido (sin spoilers).
 
 ## Description (English)
 
@@ -16,12 +16,12 @@ Chrome extension for YouTube creators: it analyzes channel performance and helps
 
 ## Contenido del repositorio
 
-Este repositorio contiene Ãºnicamente documentaciÃ³n. El cÃ³digo fuente aÃºn no se ha publicado.
+Este repositorio contiene únicamente documentación. El código fuente aún no se ha publicado.
 
 ## Derechos de autor / Copyright
 
-Â© 2026 Arzaga Nahil. Todos los derechos reservados.
+© 2026 Arzaga Nahil. Todos los derechos reservados.
 
-El contenido de este repositorio se publica con fines de demostraciÃ³n dentro del portafolio de Arzaga Nahil. No se concede ninguna licencia de uso, copia, modificaciÃ³n, distribuciÃ³n ni explotaciÃ³n, total o parcial, sin autorizaciÃ³n escrita previa. GitHub permite descargar o clonar el repositorio, pero esa posibilidad tÃ©cnica no constituye una licencia ni una cesiÃ³n de derechos.
+El contenido de este repositorio se publica con fines de demostración dentro del portafolio de Arzaga Nahil. No se concede ninguna licencia de uso, copia, modificación, distribución ni explotación, total o parcial, sin autorización escrita previa. GitHub permite descargar o clonar el repositorio, pero esa posibilidad técnica no constituye una licencia ni una cesión de derechos.
 
 Para contactar: https://arzagastudio.com/contact.html
